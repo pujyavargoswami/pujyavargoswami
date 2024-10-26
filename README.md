@@ -8,7 +8,7 @@
 </br>
 
 ## 📫 About Me
-**I’m a Software Engineer with a solid foundation in Computer Science, specializing in web development and database management. Passionate about leveraging new technologies to create high-impact digital solutions, I am skilled in a range of technologies, from web design and development to complex database systems like Oracle, MySQL Server, MongoDB, and PostgreSQL. With a strong commitment to continual learning and adaptability, I bring both technical expertise and a problem-solving mindset to each project, tailoring solutions that drive organizational growth and innovation. Having successfully delivered on diverse freelance projects, I am always eager to expand my skills and contribute to cutting-edge, transformative projects in the dynamic IT landscape.**
+**I’m a Software Engineer with a solid foundation in Computer Science, specializing in web development and database management. Passionate about leveraging new technologies to create high-impact digital solutions, I am skilled in a range of technologies, from web design and development to complex database systems like Oracle, MSSQL Server, MySQL, MongoDB, and PostgreSQL. With a strong commitment to continual learning and adaptability, I bring both technical expertise and a problem-solving mindset to each project, tailoring solutions that drive organizational growth and innovation. Having successfully delivered on diverse freelance projects, I am always eager to expand my skills and contribute to cutting-edge, transformative projects in the dynamic IT landscape.**
 
 ## 🎓 Education
 - **MCA** (Master of Computer Applications)
