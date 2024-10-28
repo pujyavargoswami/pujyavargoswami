@@ -8,6 +8,8 @@
 </br>
 
 ## 📫 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=pujyavargoswami&color=blueviolet)
+
 **I’m a Software Engineer with a solid foundation in Computer Science, specializing in web development and database management. Passionate about leveraging new technologies to create high-impact digital solutions, I am skilled in a range of technologies, from web design and development to complex database systems like Oracle, MSSQL Server, MySQL, MongoDB, and PostgreSQL. With a strong commitment to continual learning and adaptability, I bring both technical expertise and a problem-solving mindset to each project, tailoring solutions that drive organizational growth and innovation. Having successfully delivered on diverse freelance projects, I am always eager to expand my skills and contribute to cutting-edge, transformative projects in the dynamic IT landscape.**
 
 ## 🎓 Education
@@ -56,54 +58,26 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)](https://www.pinterest.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
----
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujyavargoswami&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujyavargoswami&layout=compact&theme=tokyonight)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pujyavargoswami&theme=tokyo-night)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pujyavargoswami&theme=onedark&row=1&column=6)
+## 🌍 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pujyavargoswami&color=blueviolet)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujyavargoswami&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=pujyavargoswami&theme=tokyonight&hide_border=true)
 
-
-# Hi there! 👋 I'm Pujya Vargoswami
-
-Welcome to my GitHub profile! I'm a passionate Database and Application Support Engineer skilled in web development, database management, and scripting. I love creating efficient solutions and continuously improving my technical skills. Here’s a glimpse of my GitHub journey!
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujyavargoswami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-### Language Proficiency by Usage
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujyavargoswami&layout=compact&theme=tokyonight&hide_border=true)
-
-- The languages shown here are dynamically calculated from my public repositories, highlighting my most frequently used languages.
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujyavargoswami&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pujyavargoswami&theme=onedark&no-frame=true&row=1&column=6)
-
-- Each trophy represents a milestone I've achieved on GitHub, from coding streaks to reaching new follower milestones.
-
----
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pujyavargoswami&theme=onedark&row=1&column=6)
 
 ## 🚀 Contribution Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pujyavargoswami&theme=tokyo-night&hide_border=true)
-
-- This graph visually represents my daily contributions over the last year, showcasing consistency and dedication.
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pujyavargoswami&theme=tokyo-night)
 
 ---
+
 
 ## 🔥 Streak Stats
 
@@ -112,10 +86,6 @@ Welcome to my GitHub profile! I'm a passionate Database and Application Support 
 - My streak stats help me stay motivated by tracking consecutive daily contributions. Every day counts!
 
 ---
-
-## 🌍 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=pujyavargoswami&color=blueviolet&style=for-the-badge)
 
 ---
 
@@ -127,18 +97,6 @@ Welcome to my GitHub profile! I'm a passionate Database and Application Support 
    
    - This chart shows the breakdown of time I spent coding across different languages each week (requires a WakaTime account).
 
----
-
-## 🎯 Fun Facts & More
-
-- **Favourite Languages**: Python, Java, SQL
-- **Technical Interests**: Full-stack web development, data analysis, cloud computing
-- **Tools & Technologies**: Oracle, MSSQL, MySQL, PostgreSQL, MongoDB, HTML, CSS, JavaScript, React, Bootstrap
-- **Learning Goals**: Deep dive into data engineering and machine learning!
-
----
-
-Feel free to explore my repositories and connect with me. Let's create something amazing together!
 
 
 
