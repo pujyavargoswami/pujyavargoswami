@@ -58,6 +58,21 @@
 
 ---
 
+# Hi, I'm Pujya Vargoswami! 👋
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujyavargoswami&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujyavargoswami&layout=compact&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pujyavargoswami&theme=tokyo-night)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pujyavargoswami&theme=onedark&row=1&column=6)
+
+![Profile Views](https://komarev.com/ghpvc/?username=pujyavargoswami&color=blueviolet)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pujyavargoswami&theme=tokyonight&hide_border=true)
+
+
 ## 🎨 Fun Fact
 I love exploring new technologies and building innovative solutions. Let's connect and collaborate! 🚀
 
