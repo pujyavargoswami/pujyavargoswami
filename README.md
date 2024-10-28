@@ -4,13 +4,14 @@
 <img src="https://pujyavardatt.netlify.app/image/favicon/favicon_active.png" alt="Profile Picture">
   
 # 👋 Hello, I'm **Pujyavar Datt** 
+
+![Profile Views](https://komarev.com/ghpvc/?username=pujyavargoswami&color=blueviolet)
 </div>
-</br>
 
 ## 📫 About Me
-![Profile Views](https://komarev.com/ghpvc/?username=pujyavargoswami&color=blueviolet)
 
 **I’m a Software Engineer with a solid foundation in Computer Science, specializing in web development and database management. Passionate about leveraging new technologies to create high-impact digital solutions, I am skilled in a range of technologies, from web design and development to complex database systems like Oracle, MSSQL Server, MySQL, MongoDB, and PostgreSQL. With a strong commitment to continual learning and adaptability, I bring both technical expertise and a problem-solving mindset to each project, tailoring solutions that drive organizational growth and innovation. Having successfully delivered on diverse freelance projects, I am always eager to expand my skills and contribute to cutting-edge, transformative projects in the dynamic IT landscape.**
+
 
 ## 🎓 Education
 - **MCA** (Master of Computer Applications)
@@ -59,12 +60,17 @@
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 
-## 🌍 Profile Views
+## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pujyavargoswami&color=blueviolet)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujyavargoswami&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=pujyavargoswami&theme=tokyonight&hide_border=true)
+
+## </> Language Proficiency by Usage
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujyavargoswami&layout=compact&theme=tokyonight)
 
@@ -72,32 +78,9 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pujyavargoswami&theme=onedark&row=1&column=6)
 
-## 🚀 Contribution Activity Graph
+## 📈 Contribution Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pujyavargoswami&theme=tokyo-night)
-
----
-
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pujyavargoswami&theme=tokyonight&hide_border=true)
-
-- My streak stats help me stay motivated by tracking consecutive daily contributions. Every day counts!
-
----
-
----
-
-## 📈 Additional Insights
-
-### Weekly Development Breakdown
-   <!-- Add your weekly coding stats using WakaTime (if you have WakaTime set up) -->
-   ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pujyavargoswami&theme=tokyonight&hide_border=true)
-   
-   - This chart shows the breakdown of time I spent coding across different languages each week (requires a WakaTime account).
-
-
 
 
 
