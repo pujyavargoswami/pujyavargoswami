@@ -58,7 +58,6 @@
 
 ---
 
-# Hi, I'm Pujya Vargoswami! 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujyavargoswami&show_icons=true&theme=tokyonight)
 
@@ -71,6 +70,77 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=pujyavargoswami&color=blueviolet)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pujyavargoswami&theme=tokyonight&hide_border=true)
+
+
+# Hi there! 👋 I'm Pujya Vargoswami
+
+Welcome to my GitHub profile! I'm a passionate Database and Application Support Engineer skilled in web development, database management, and scripting. I love creating efficient solutions and continuously improving my technical skills. Here’s a glimpse of my GitHub journey!
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujyavargoswami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+### Language Proficiency by Usage
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujyavargoswami&layout=compact&theme=tokyonight&hide_border=true)
+
+- The languages shown here are dynamically calculated from my public repositories, highlighting my most frequently used languages.
+
+---
+
+## 🏆 GitHub Achievements
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pujyavargoswami&theme=onedark&no-frame=true&row=1&column=6)
+
+- Each trophy represents a milestone I've achieved on GitHub, from coding streaks to reaching new follower milestones.
+
+---
+
+## 🚀 Contribution Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pujyavargoswami&theme=tokyo-night&hide_border=true)
+
+- This graph visually represents my daily contributions over the last year, showcasing consistency and dedication.
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pujyavargoswami&theme=tokyonight&hide_border=true)
+
+- My streak stats help me stay motivated by tracking consecutive daily contributions. Every day counts!
+
+---
+
+## 🌍 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=pujyavargoswami&color=blueviolet&style=for-the-badge)
+
+---
+
+## 📈 Additional Insights
+
+### Weekly Development Breakdown
+   <!-- Add your weekly coding stats using WakaTime (if you have WakaTime set up) -->
+   ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pujyavargoswami&theme=tokyonight&hide_border=true)
+   
+   - This chart shows the breakdown of time I spent coding across different languages each week (requires a WakaTime account).
+
+---
+
+## 🎯 Fun Facts & More
+
+- **Favourite Languages**: Python, Java, SQL
+- **Technical Interests**: Full-stack web development, data analysis, cloud computing
+- **Tools & Technologies**: Oracle, MSSQL, MySQL, PostgreSQL, MongoDB, HTML, CSS, JavaScript, React, Bootstrap
+- **Learning Goals**: Deep dive into data engineering and machine learning!
+
+---
+
+Feel free to explore my repositories and connect with me. Let's create something amazing together!
+
+
 
 
 ## 🎨 Fun Fact
